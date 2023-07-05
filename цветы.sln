@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "цветы", "цветы\цветы.csproj", "{3AE45338-6702-488D-B389-66B9A3A5A130}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "цветы консоль", "цветы консоль\цветы консоль.csproj", "{5AF797AB-D1D6-422B-B1E3-9439775AE969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AE45338-6702-488D-B389-66B9A3A5A130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE45338-6702-488D-B389-66B9A3A5A130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE45338-6702-488D-B389-66B9A3A5A130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE45338-6702-488D-B389-66B9A3A5A130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AF797AB-D1D6-422B-B1E3-9439775AE969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF797AB-D1D6-422B-B1E3-9439775AE969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF797AB-D1D6-422B-B1E3-9439775AE969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF797AB-D1D6-422B-B1E3-9439775AE969}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A1754CD-D66B-4200-9037-3CA4886E7A6F}
+	EndGlobalSection
+EndGlobal
